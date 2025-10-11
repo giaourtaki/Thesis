@@ -1,0 +1,9 @@
+This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2025.10.12)  12 OCT 2025 02:34
+ restricted system commands enabled.
+ file:line:error style messages enabled.
+**c:/Users/marin/Documents/GitHub/Thesis/main.tex
+(
+c:/Users/marin/Documents/GitHub/Thesis/main.tex:0: error:  (file io): fflush() f
+ailed (Invalid argument)
+c:/Users/marin/Documents/GitHub/Thesis/main.tex:0:  ==> Fatal error occurred, no
+ output PDF file produced!
